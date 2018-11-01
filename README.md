@@ -1,2 +1,2 @@
-# ideas
-Serval inspirations and questions.
+# My ideas
+Serval inspirations and questions, aka whims. There is a French term called `L'esprit de l'escalier` which means the spirits under the stairs, or say, the predicament when you finally give birth to a smart reply but already too late. In order to prevent this circumstance, the repository records serval thinking and questions. Some of them are naive, quirky, or written in different language. Inspirations are stored as `markdown` file while questions are issues.
